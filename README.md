@@ -18,7 +18,7 @@ dart pub global activate flutterfire_cli
 
 Configure your apps to use Firebase by running the following command from the root of your Flutter project:
 ````dart 
-`flutterfire configure`
+flutterfire configure
 ````
 A few resources to get you started if this is your first Flutter project:
 
