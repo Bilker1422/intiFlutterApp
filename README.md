@@ -12,7 +12,9 @@ To install the dependencies, run the following command in the root of the projec
 
 Install the FlutterFire CLI if not exist by running the following command from any directory:
 
-`dart pub global activate flutterfire_cli`
+````dart 
+pub global activate flutterfire_cli
+````
 
 Configure your apps to use Firebase by running the following command from the root of your Flutter project:
 
