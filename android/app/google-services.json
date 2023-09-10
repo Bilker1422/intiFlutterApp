@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689045829963",
+    "project_id": "app-hgn",
+    "storage_bucket": "app-hgn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689045829963:android:b2d8bc109f77fdec2d90ce",
+        "android_client_info": {
+          "package_name": "com.example.hgyn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAzEo_0Xom9iLqDoVQwo9nSA0dClC5XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689045829963:android:15b30e39ef3e65cc2d90ce",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAzEo_0Xom9iLqDoVQwo9nSA0dClC5XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
