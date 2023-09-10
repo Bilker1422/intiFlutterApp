@@ -36,6 +36,8 @@ migrate_working_dir/
 .cache_ggshield
 /ios/Runner/GoogleService-Info.plist
 /macos/Runner/GoogleService-Info.plist
+/android/app/google-services.json
+\ios\firebase_app_id_file.json
 
 # Symbolication related
 app.*.symbols
